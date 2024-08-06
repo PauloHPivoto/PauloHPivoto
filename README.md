@@ -10,7 +10,7 @@
 
 ## Objetivo
 O objetivo deste perfil é salvar projetos de linguagens de programação que estarei estudando para evoluir meus conhecimentos. Meu foco será em estudas as liguagens de
-Desenvolvimento que estão em alta no mercado hoje. Além disso, ele irá conter outros repositórios de mentorias voluntárias que já ministrei no passado.
+Desenvolvimento Web que estão em alta no mercado hoje. Além disso, ele irá conter outros repositórios de mentorias voluntárias que já ministrei no passado.
 
 ## Linguagens que irei focar neste perfil
 <div style="display: inline_block"><br>
